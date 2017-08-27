@@ -15,3 +15,26 @@ select,
 textarea {
     max-width: 280px;
 }
+
+#footer {
+    bottom: 0;
+    position: absolute;
+}
+
+#coffA, #coffB, #coffC, #rangeFrom, #rangeTo, #step {
+    width: 30px;
+}
+
+#resbutton {
+    width: 80px;
+    -webkit-text-stroke-width: medium;
+    margin-left: 95px;
+    color: rgba(255, 255, 255, 0.98);
+    background-color: rgb(0, 70, 255);
+}
+
+#image {
+    width: 500px;
+    height: 500px;
+    margin-left: 105px;
+}
