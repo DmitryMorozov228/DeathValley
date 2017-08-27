@@ -61,3 +61,5 @@ D:\IT House\DeathValley\DeathValley\bin\Antlr3.Runtime.pdb
 D:\IT House\DeathValley\DeathValley\obj\Debug\DeathValley.csprojResolveAssemblyReference.cache
 D:\IT House\DeathValley\DeathValley\obj\Debug\DeathValley.dll
 D:\IT House\DeathValley\DeathValley\obj\Debug\DeathValley.pdb
+D:\IT House\DeathValley\DeathValley\obj\Debug\DeathValley.Migrations.Created_Tables.resources
+D:\IT House\DeathValley\DeathValley\obj\Debug\DeathValley.csproj.GenerateResource.Cache
