@@ -21,7 +21,7 @@ textarea {
     position: absolute;
 }
 
-#coffA, #coffB, #coffC, #rangeFrom, #rangeTo, #step {
+#inputData {
     width: 30px;
 }
 
